@@ -2,3 +2,5 @@
 - [学校小问](school.md)
 - [学院解惑](college.md)
 - [课程答疑](course.md)
+- [暑假安排](ThisBoringSummer.md)
+- [社团一览](association.md)
