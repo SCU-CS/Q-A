@@ -24,6 +24,7 @@
 - Python
 - JavaScript(我知道fcc是这么讲的)
 - [CovScript](https://covariant.cn/covscript)(混入了奇怪的东西)
+
 等等
 
 我该怎么选？
@@ -36,4 +37,4 @@
 - 社团方面，有个社团的主要活动就是教C++
 - 不过我觉得这个暑假，不管学的C还是C++，应该都差不多吧
 
-一些信息可以看看[这里](https://scu-cs.github.io/C-Cpp)(可能现在还是仓库施工)
+一些信息可以看看[这里](https://scu-cs.github.io/C-Cpp)(可能现在还在仓库施工)
